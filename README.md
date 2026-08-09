@@ -147,17 +147,38 @@ philosophy: "If it can't run in real-time, it's not ready for production."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshakn111&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" height="170"/>
+<!-- Stats + Languages side by side -->
+<a href="https://github.com/Moshakn111">
+<img src="https://github-readme-stats.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true&custom_title=Shameer's+GitHub+Stats" height="180"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Moshakn111">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshakn111&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" height="180"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moshakn111&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E" width="55%"/>
+<!-- Streak -->
+<a href="https://github.com/Moshakn111">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moshakn111&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=6C63FF" width="60%"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" width="90%"/>
+<!-- Activity Graph -->
+<a href="https://github.com/Moshakn111">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&custom_title=Contribution%20Activity" width="92%"/>
+</a>
+
+<br><br>
+
+<!-- Detailed Stats Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moshakn111&theme=github_dark" width="92%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moshakn111&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moshakn111&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moshakn111&theme=github_dark&utcOffset=5.5" width="30%"/>
 
 </div>
 
