@@ -212,22 +212,22 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Moshakn111&hide_border=true&background=0d1117&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E&stroke=302b63" width="58%"/>
+<img src="https://streak-stats.demolab.com/?user=Moshakn111&hide_border=true&background=0d1117&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E&stroke=302b63&cache_seconds=1800" width="58%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=0d1117&color=A8B2D1&line=7B68EE&point=FFFFFF&area=true&area_color=302b63&custom_title=Contribution%20Activity" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=0d1117&color=A8B2D1&line=7B68EE&point=FFFFFF&area=true&area_color=302b63&custom_title=Contribution%20Activity&cache_seconds=1800" width="92%"/>
 
 <br><br>
 
-<img src="https://github-trophies.vercel.app/?username=Moshakn111&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+<img src="https://github-trophies.vercel.app/?username=Moshakn111&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&cache_seconds=1800" width="95%"/>
 
 <br><br>
 
-<!-- Quick stats badges -->
-![Repos](https://img.shields.io/badge/Public_Repos-6+-7B68EE?style=for-the-badge&labelColor=0d1117&logo=github)
-![Commits](https://img.shields.io/badge/Total_Commits-Active-FF6E40?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%2FML-238636?style=for-the-badge&labelColor=0d1117&logo=tensorflow&logoColor=white)
+<!-- Dynamic badges - auto-update from GitHub API -->
+![Repos](https://img.shields.io/github/repos-search/Moshakn111?query=user:Moshakn111&style=for-the-badge&labelColor=0d1117&color=7B68EE&logo=github&label=Public%20Repos&cacheSeconds=1800)
+![Followers](https://img.shields.io/github/followers/Moshakn111?style=for-the-badge&labelColor=0d1117&color=FF6E40&logo=github&label=Followers&cacheSeconds=1800)
+![Stars](https://img.shields.io/github/stars/Moshakn111?style=for-the-badge&labelColor=0d1117&color=238636&logo=github&label=Total%20Stars&affiliations=OWNER&cacheSeconds=1800)
 
 </div>
 
