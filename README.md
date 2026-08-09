@@ -29,17 +29,17 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> About Me
 
-I design and build AI-powered systems across **Computer Vision**, **Deep Learning**, **NLP**, and **Generative AI**. Every project I work on is trained on GPU and built to run in real-time.
+I'm passionate about making machines see, understand, and generate. From detecting objects in video streams to teaching language models new skills — I work at the intersection of vision, language, and intelligence.
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-- Working on **real-time detection & tracking** systems
-- Building **LLM applications** with RAG and fine-tuning
-- Training models on **NVIDIA RTX 3050** (GPU-only pipelines)
-- Exploring **Vision Transformers** and **multimodal AI**
-- All projects are **end-to-end**: data collection to deployment
+- Building **computer vision** systems that work in real-time
+- Fine-tuning **LLMs** and designing **RAG pipelines**
+- Creating AI for **healthcare**, **traffic**, and **industrial** applications
+- Exploring **multimodal AI** and **Vision Transformers**
+- Every model I build is **GPU-trained** and production-ready
 
 <br clear="right"/>
 
