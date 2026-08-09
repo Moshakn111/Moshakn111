@@ -118,50 +118,106 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
+<br>
+
+<!-- Project 1 -->
 <a href="https://github.com/Moshakn111/traffic_violation_ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=traffic_violation_ai&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/LLM_Finetuning_LoRA_GPT2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=LLM_Finetuning_LoRA_GPT2&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
+<img src="https://img.shields.io/badge/TRAFFIC_VIOLATION_AI-Vision_+_NLP_Pipeline-7B68EE?style=for-the-badge&labelColor=1a1b27&logo=opencv&logoColor=white"/>
 </a>
 
-<br><br>
+> Real-time traffic monitoring using YOLOv8 detection, SORT tracking, and Flan-T5 NLP report generation
 
-<a href="https://github.com/Moshakn111/RAG_QA_System_LLM_VectorDB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=RAG_QA_System_LLM_VectorDB&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/NLP_Chatbot_Intent_Classification_LSTM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=NLP_Chatbot_Intent_Classification_LSTM&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Moshakn111/Stock_Price_Prediction_LSTM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=Stock_Price_Prediction_LSTM&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/Handwritten_Character_Recognition_CNN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=Handwritten_Character_Recognition_CNN&theme=react&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=7B68EE&text_color=C9D1D9" width="47%"/>
-</a>
-
-</div>
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![SORT](https://img.shields.io/badge/SORT_Tracker-8B949E?style=flat-square) ![Flan-T5](https://img.shields.io/badge/Flan--T5-FF6F00?style=flat-square) ![mAP](https://img.shields.io/badge/mAP@0.5-99.07%25-238636?style=flat-square) ![FPS](https://img.shields.io/badge/Speed-97_FPS-238636?style=flat-square)
 
 <br>
 
-### Project Highlights
+<!-- Project 2 -->
+<a href="https://github.com/Moshakn111">
+<img src="https://img.shields.io/badge/SIGN_LANGUAGE_TO_TEXT_&_VOICE-Real--Time_Gesture_Recognition-6C63FF?style=for-the-badge&labelColor=1a1b27&logo=google&logoColor=white"/>
+</a>
 
-<div align="center">
+> Hand gesture recognition that converts sign language into text and speech in real-time
 
-| Project | Domain | Model | Performance |
-|:--------|:------:|:-----:|:-----------:|
-| **Traffic Violation AI** | Vision | YOLOv8 + SORT + Flan-T5 | mAP 99.07% |
-| **Sign Language to Text** | Vision + NLP | MediaPipe + CNN + TTS | Real-Time |
-| **Tamil Dialect ID** | Speech | Wav2Vec2 / XLS-R | Classification |
-| **Nail Disease Analysis** | Medical AI | U-Net + Grad-CAM | Segmentation |
-| **Welding Defect** | Industrial | ResNet + VGG | Classification |
-| **LLM Fine-Tuning** | GenAI | GPT-2 + LoRA | Perplexity 12.33 |
-| **RAG Q&A System** | GenAI | Flan-T5 + FAISS | 100% Hit@1 |
-| **NLP Chatbot** | NLP | LSTM + Attention | 90.52% Acc |
-| **Stock Prediction** | Time Series | Bi-LSTM | MAPE 1.74% |
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![TTS](https://img.shields.io/badge/Text--to--Speech-412991?style=flat-square) ![RT](https://img.shields.io/badge/Real--Time-238636?style=flat-square)
+
+<br>
+
+<!-- Project 3 -->
+<a href="https://github.com/Moshakn111">
+<img src="https://img.shields.io/badge/TAMIL_DIALECT_IDENTIFICATION-Speech_Classification_System-5C58E0?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
+</a>
+
+> Transformer-based audio classification to identify regional Tamil dialect variations
+
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-EE4C2C?style=flat-square) ![XLS-R](https://img.shields.io/badge/XLS--R-FFD21E?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) ![NLP](https://img.shields.io/badge/Speech_NLP-7B68EE?style=flat-square)
+
+<br>
+
+<!-- Project 4 -->
+<a href="https://github.com/Moshakn111">
+<img src="https://img.shields.io/badge/NAIL_DISEASE_ANALYSIS-Medical_AI_+_Explainability-4B44D4?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
+</a>
+
+> Deep learning segmentation and classification of nail diseases with Grad-CAM explainability
+
+![U-Net](https://img.shields.io/badge/U--Net-EE4C2C?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-5C3EE8?style=flat-square) ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat-square) ![XAI](https://img.shields.io/badge/Explainable_AI-238636?style=flat-square)
+
+<br>
+
+<!-- Project 5 -->
+<a href="https://github.com/Moshakn111">
+<img src="https://img.shields.io/badge/WELDING_DEFECT_CLASSIFICATION-Industrial_Computer_Vision-3D37C8?style=for-the-badge&labelColor=1a1b27&logo=opencv&logoColor=white"/>
+</a>
+
+> Transfer learning approach to classify welding defects from industrial radiographic images
+
+![ResNet](https://img.shields.io/badge/ResNet-EE4C2C?style=flat-square) ![VGG](https://img.shields.io/badge/VGG-5C3EE8?style=flat-square) ![MobileNet](https://img.shields.io/badge/MobileNet-76B900?style=flat-square) ![Industrial](https://img.shields.io/badge/Industrial_AI-8B949E?style=flat-square)
+
+<br>
+
+<!-- Project 6 -->
+<a href="https://github.com/Moshakn111/LLM_Finetuning_LoRA_GPT2">
+<img src="https://img.shields.io/badge/LLM_FINE--TUNING_(LoRA)-Parameter--Efficient_Training-302b63?style=for-the-badge&labelColor=1a1b27&logo=openai&logoColor=white"/>
+</a>
+
+> Fine-tuning GPT-2 with LoRA adapters — training only 0.4% of parameters for domain adaptation
+
+![GPT-2](https://img.shields.io/badge/GPT--2-412991?style=flat-square) ![LoRA](https://img.shields.io/badge/LoRA-FF6F00?style=flat-square) ![PEFT](https://img.shields.io/badge/PEFT-FFD21E?style=flat-square) ![PPL](https://img.shields.io/badge/Perplexity-12.33-238636?style=flat-square)
+
+<br>
+
+<!-- Project 7 -->
+<a href="https://github.com/Moshakn111/RAG_QA_System_LLM_VectorDB">
+<img src="https://img.shields.io/badge/RAG_Q&A_SYSTEM-LLM_+_Vector_Database-7B68EE?style=for-the-badge&labelColor=1a1b27&logo=meta&logoColor=white"/>
+</a>
+
+> Retrieval-Augmented Generation pipeline with FAISS vector search and Flan-T5 answer generation
+
+![Flan-T5](https://img.shields.io/badge/Flan--T5-FF6F00?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) ![Embeddings](https://img.shields.io/badge/MiniLM-412991?style=flat-square) ![Hit](https://img.shields.io/badge/Hit@1-100%25-238636?style=flat-square)
+
+<br>
+
+<!-- Project 8 -->
+<a href="https://github.com/Moshakn111/NLP_Chatbot_Intent_Classification_LSTM">
+<img src="https://img.shields.io/badge/NLP_CHATBOT-Intent_Classification_+_Response-6C63FF?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
+</a>
+
+> LSTM-based intent classifier with attention mechanism for conversational AI
+
+![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square) ![Attention](https://img.shields.io/badge/Attention-7B68EE?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-FFD21E?style=flat-square) ![Acc](https://img.shields.io/badge/Accuracy-90.52%25-238636?style=flat-square)
+
+<br>
+
+<!-- Project 9 -->
+<a href="https://github.com/Moshakn111/Stock_Price_Prediction_LSTM">
+<img src="https://img.shields.io/badge/STOCK_PRICE_PREDICTION-Time_Series_Forecasting-5C58E0?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
+</a>
+
+> Bi-directional LSTM for multi-step stock price forecasting with 60-day lookback
+
+![Bi-LSTM](https://img.shields.io/badge/Bi--LSTM-EE4C2C?style=flat-square) ![TimeSeries](https://img.shields.io/badge/Time_Series-5C3EE8?style=flat-square) ![Yahoo](https://img.shields.io/badge/Yahoo_Finance-7B0099?style=flat-square) ![MAPE](https://img.shields.io/badge/MAPE-1.74%25-238636?style=flat-square)
+
+<br>
 
 </div>
 
