@@ -143,39 +143,6 @@ I'm passionate about making machines see, understand, and generate. From detecti
 <br>
 
 <!-- Project 3 -->
-<a href="https://github.com/Moshakn111">
-<img src="https://img.shields.io/badge/TAMIL_DIALECT_IDENTIFICATION-Speech_Classification_System-5C58E0?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
-</a>
-
-> Transformer-based audio classification to identify regional Tamil dialect variations
-
-![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-EE4C2C?style=flat-square) ![XLS-R](https://img.shields.io/badge/XLS--R-FFD21E?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) ![NLP](https://img.shields.io/badge/Speech_NLP-7B68EE?style=flat-square)
-
-<br>
-
-<!-- Project 4 -->
-<a href="https://github.com/Moshakn111">
-<img src="https://img.shields.io/badge/NAIL_DISEASE_ANALYSIS-Medical_AI_+_Explainability-4B44D4?style=for-the-badge&labelColor=1a1b27&logo=pytorch&logoColor=white"/>
-</a>
-
-> Deep learning segmentation and classification of nail diseases with Grad-CAM explainability
-
-![U-Net](https://img.shields.io/badge/U--Net-EE4C2C?style=flat-square) ![CNN](https://img.shields.io/badge/CNN-5C3EE8?style=flat-square) ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-FF6F00?style=flat-square) ![XAI](https://img.shields.io/badge/Explainable_AI-238636?style=flat-square)
-
-<br>
-
-<!-- Project 5 -->
-<a href="https://github.com/Moshakn111">
-<img src="https://img.shields.io/badge/WELDING_DEFECT_CLASSIFICATION-Industrial_Computer_Vision-3D37C8?style=for-the-badge&labelColor=1a1b27&logo=opencv&logoColor=white"/>
-</a>
-
-> Transfer learning approach to classify welding defects from industrial radiographic images
-
-![ResNet](https://img.shields.io/badge/ResNet-EE4C2C?style=flat-square) ![VGG](https://img.shields.io/badge/VGG-5C3EE8?style=flat-square) ![MobileNet](https://img.shields.io/badge/MobileNet-76B900?style=flat-square) ![Industrial](https://img.shields.io/badge/Industrial_AI-8B949E?style=flat-square)
-
-<br>
-
-<!-- Project 6 -->
 <a href="https://github.com/Moshakn111/LLM_Finetuning_LoRA_GPT2">
 <img src="https://img.shields.io/badge/LLM_FINE--TUNING_(LoRA)-Parameter--Efficient_Training-302b63?style=for-the-badge&labelColor=1a1b27&logo=openai&logoColor=white"/>
 </a>
