@@ -53,42 +53,15 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Machine_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/><br><br>
-<sub>Classification, Regression<br>Clustering, Feature Engineering<br>Model Optimization</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Computer_Vision-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/><br><br>
-<sub>Object Detection, Tracking<br>Segmentation, Real-Time<br>YOLO, Vision Transformers</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Deep_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60"/><br><br>
-<sub>CNNs, LSTMs, Transformers<br>Transfer Learning, GANs<br>Attention Mechanisms</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/IeRaVCjXJXqi1fVfJe/giphy.gif" width="60"/><br><br>
-<sub>LLMs, RAG Systems<br>Fine-Tuning, LoRA/PEFT<br>Prompt Engineering</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/NLP-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/Y4bzv6DYbYRlCRfEKh/giphy.gif" width="60"/><br><br>
-<sub>Text Classification, NER<br>Speech Processing<br>Language Models</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Data_Science-7B68EE?style=for-the-badge&labelColor=1a1b27" width="180"/><br><br>
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60"/><br><br>
-<sub>EDA, Statistical Analysis<br>Visualization, Dashboards<br>Feature Engineering</sub>
-</td>
-</tr>
-</table>
+| | | |
+|:---:|:---:|:---:|
+| ![ML](https://img.shields.io/badge/Machine_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![CV](https://img.shields.io/badge/Computer_Vision-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![DL](https://img.shields.io/badge/Deep_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27) |
+| Predictive modeling that finds | Teaching machines to see, detect | Neural architectures that learn |
+| patterns humans can't see | and understand visual worlds | complex representations |
+| | | |
+| ![GenAI](https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![NLP](https://img.shields.io/badge/NLP-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![DS](https://img.shields.io/badge/Data_Science-7B68EE?style=for-the-badge&labelColor=1a1b27) |
+| Building with LLMs, RAG | Making machines read, speak | Transforming raw data into |
+| and fine-tuning intelligence | and understand language | actionable intelligence |
 
 </div>
 
