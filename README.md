@@ -212,9 +212,9 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=7B68EE&title_color=A8B2D1&text_color=C9D1D9&ring_color=7B68EE&count_private=true&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=7B68EE&title_color=A8B2D1&text_color=C9D1D9&ring_color=7B68EE&count_private=true&include_all_commits=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshakn111&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=A8B2D1&text_color=C9D1D9&langs_count=6" height="175"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moshakn111&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=A8B2D1&text_color=C9D1D9&langs_count=6" height="175"/>
 
 <br><br>
 
@@ -226,21 +226,14 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Moshakn111&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+<img src="https://github-trophies.vercel.app/?username=Moshakn111&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
 
 <br><br>
 
-<!-- Repo contribution stats -->
-<a href="https://github.com/Moshakn111">
-<img src="https://github-contributor-stats.vercel.app/api?username=Moshakn111&limit=5&theme=dark&hide_border=true&background=0d1117&title_color=A8B2D1&text_color=C9D1D9&combine_all_yearly_contributions=true" width="55%"/>
-</a>
-
-<br><br>
-
-<!-- Metrics -->
+<!-- Quick stats badges -->
 ![Repos](https://img.shields.io/badge/Public_Repos-6+-7B68EE?style=for-the-badge&labelColor=0d1117&logo=github)
 ![Commits](https://img.shields.io/badge/Total_Commits-Active-FF6E40?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=white)
-![PRs](https://img.shields.io/badge/Pull_Requests-Open_Source-238636?style=for-the-badge&labelColor=0d1117&logo=gitpullrequest&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI%2FML-238636?style=for-the-badge&labelColor=0d1117&logo=tensorflow&logoColor=white)
 
 </div>
 
