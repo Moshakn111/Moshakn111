@@ -212,12 +212,6 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=7B68EE&title_color=A8B2D1&text_color=C9D1D9&ring_color=7B68EE&count_private=true&include_all_commits=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moshakn111&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=A8B2D1&text_color=C9D1D9&langs_count=6" height="175"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=Moshakn111&hide_border=true&background=0d1117&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E&stroke=302b63" width="58%"/>
 
 <br><br>
