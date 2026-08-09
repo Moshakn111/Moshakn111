@@ -33,7 +33,7 @@
 
 I'm passionate about making machines see, understand, and generate. From detecting objects in video streams to teaching language models new skills — I work at the intersection of vision, language, and intelligence.
 
-<img align="right" src="https://raw.githubusercontent.com/hasankhalili/hasankhalili/main/gif/coding.gif" width="270"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="270"/>
 
 - Building **computer vision** systems that work in real-time
 - Fine-tuning **LLMs** and designing **RAG pipelines**
