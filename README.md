@@ -25,7 +25,7 @@
 <br>
 
 <!-- Animated divider -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -45,7 +45,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -73,7 +73,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -110,7 +110,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -190,7 +190,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -204,7 +204,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -218,21 +218,11 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moshakn111&hide_border=true&background=1a1b27&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E&stroke=302b63" width="58%"/>
+<img src="https://streak-stats.demolab.com/?user=Moshakn111&hide_border=true&background=1a1b27&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E&stroke=302b63" width="58%"/>
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=1a1b27&color=A8B2D1&line=7B68EE&point=FFFFFF&area=true&area_color=302b63&custom_title=Contribution%20Activity" width="92%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moshakn111&theme=2077" width="92%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moshakn111&theme=2077" width="30%"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moshakn111&theme=2077" width="30%"/>&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moshakn111&theme=2077&utcOffset=5.5" width="30%"/>
 
 <br><br>
 
@@ -242,7 +232,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
@@ -262,7 +252,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/></p>
+---
 
 <br>
 
