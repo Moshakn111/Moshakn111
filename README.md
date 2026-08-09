@@ -29,11 +29,11 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> About Me
+## 🧠 About Me
 
 I'm passionate about making machines see, understand, and generate. From detecting objects in video streams to teaching language models new skills — I work at the intersection of vision, language, and intelligence.
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
 
 - Building **computer vision** systems that work in real-time
 - Fine-tuning **LLMs** and designing **RAG pipelines**
@@ -49,7 +49,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="28"> AI Focus
+## 🎯 AI Focus
 
 <div align="center">
 
@@ -77,7 +77,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28"> Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -114,7 +114,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="28"> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -194,7 +194,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Currently Building
+## 🔬 Currently Building
 
 <div align="center">
 
@@ -208,7 +208,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -236,7 +236,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="24"> Certifications
+## 🏆 Certifications
 
 <div align="center">
 
@@ -256,7 +256,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Connect
+## 🤝 Connect
 
 <div align="center">
 
