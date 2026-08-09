@@ -1,194 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:3F3D56&height=200&section=header&text=Mohamed%20Shameer%20Khan%20A&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20NLP&descSize=14&descColor=CCCCCC&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Shameer%20Khan%20A&fontSize=38&fontColor=E0E0FF&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Computer%20Vision&descSize=15&descColor=A8B2D1&descAlignY=54"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%94%AC;Real-Time+Object+Detection+%F0%9F%8E%AF;Fine-Tuning+Large+Language+Models+%F0%9F%A7%A0;End-to-End+AI+Pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
+### Building intelligent systems that turn data into meaningful decisions.
 
 <br>
 
-<a href="https://github.com/Moshakn111?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Moshakn111?tab=followers"><img src="https://img.shields.io/github/followers/Moshakn111?style=for-the-badge&color=3F3D56&labelColor=1A1B27&logo=github&label=Followers"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Moshakn111&style=for-the-badge&color=6C63FF&label=Visitors"/>
-
-</div>
+I design and develop AI-powered solutions across **Computer Vision**, **Deep Learning**, **NLP**, and **Generative AI** — from training models on custom datasets to deploying real-time inference pipelines.
 
 <br>
 
-## $\color{#6C63FF}{\textsf{About Me}}$
-
-```yaml
-name: Mohamed Shameer Khan A
-role: AI/ML Developer
-location: India
-education: Computer Science
-
-focus_areas:
-  - Real-Time Computer Vision (YOLOv8, Object Tracking)
-  - Large Language Models (Fine-tuning, RAG, LoRA)
-  - Natural Language Processing (Transformers, LSTM)
-  - End-to-End ML Pipelines (Training to Deployment)
-
-hardware: NVIDIA RTX 3050 (4GB VRAM) - all models GPU-trained
-philosophy: "If it can't run in real-time, it's not ready for production."
+```
+DATA  ──→  MODEL  ──→  INTELLIGENCE  ──→  IMPACT
 ```
 
 <br>
 
-## $\color{#6C63FF}{\textsf{Tech Arsenal}}$
-
-<div align="center">
-
-<table>
-<tr><td align="center" width="140">
-
-**Core**<br><br>
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
-<sub>Python</sub>
-
-</td><td align="center" width="140">
-
-**Deep Learning**<br><br>
-<img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br>
-<sub>PyTorch</sub>
-
-</td><td align="center" width="140">
-
-**Vision**<br><br>
-<img src="https://skillicons.dev/icons?i=opencv" width="40"/><br>
-<sub>OpenCV</sub>
-
-</td><td align="center" width="140">
-
-**NLP**<br><br>
-<img src="https://img.shields.io/badge/HF-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/><br>
-<sub>Transformers</sub>
-
-</td><td align="center" width="140">
-
-**GPU**<br><br>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28"/><br>
-<sub>CUDA 12.1</sub>
-
-</td><td align="center" width="140">
-
-**Version Control**<br><br>
-<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
-<sub>Git</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Advanced-00FFFF?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-Advanced-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Intermediate-0467DF?style=flat-square&logo=meta&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%2FPEFT-Advanced-FF6F00?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-Intermediate-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</div>
-
-<br>
-
-## $\color{#6C63FF}{\textsf{Featured Projects}}$
-
-<div align="center">
-
-<a href="https://github.com/Moshakn111/traffic_violation_ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=traffic_violation_ai&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/LLM_Finetuning_LoRA_GPT2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=LLM_Finetuning_LoRA_GPT2&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>
-
-<a href="https://github.com/Moshakn111/RAG_QA_System_LLM_VectorDB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=RAG_QA_System_LLM_VectorDB&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/NLP_Chatbot_Intent_Classification_LSTM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=NLP_Chatbot_Intent_Classification_LSTM&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>
-
-<a href="https://github.com/Moshakn111/Stock_Price_Prediction_LSTM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=Stock_Price_Prediction_LSTM&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111/Handwritten_Character_Recognition_CNN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Moshakn111&repo=Handwritten_Character_Recognition_CNN&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9" width="47%"/>
-</a>
-
-</div>
-
-<br>
-
-### $\color{#6C63FF}{\textsf{Performance Highlights}}$
-
-<div align="center">
-
-```
- PROJECT                        MODEL                  METRIC              SCORE
- ----------------------------- ---------------------- ------------------- ----------
- Traffic Violation AI           YOLOv8 + SORT + T5     mAP@0.5             99.07%
- LLM Fine-Tuning               GPT-2 + LoRA           Perplexity          12.33
- RAG Q&A System                 Flan-T5 + FAISS        Retrieval Hit@1     100%
- NLP Chatbot                    LSTM + Attention       Accuracy            90.52%
- Stock Prediction               Bi-LSTM                MAPE                1.74%
- Handwritten Recognition        Custom CNN             Accuracy            88.11%
-```
-
-</div>
-
-<br>
-
-## $\color{#6C63FF}{\textsf{GitHub Analytics}}$
-
-<div align="center">
-
-<!-- Stats + Languages side by side -->
-<a href="https://github.com/Moshakn111">
-<img src="https://github-readme-stats.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&count_private=true&include_all_commits=true&custom_title=Shameer's+GitHub+Stats" height="180"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Moshakn111">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshakn111&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" height="180"/>
-</a>
-
-<br><br>
-
-<!-- Streak -->
-<a href="https://github.com/Moshakn111">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moshakn111&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&stroke=6C63FF" width="60%"/>
-</a>
-
-<br><br>
-
-<!-- Activity Graph -->
-<a href="https://github.com/Moshakn111">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&custom_title=Contribution%20Activity" width="92%"/>
-</a>
-
-<br><br>
-
-<!-- Detailed Stats Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moshakn111&theme=github_dark" width="92%"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moshakn111&theme=github_dark" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moshakn111&theme=github_dark" width="30%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Moshakn111&theme=github_dark&utcOffset=5.5" width="30%"/>
-
-</div>
-
-<br>
-
-## $\color{#6C63FF}{\textsf{Trophies}}$
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moshakn111&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+<a href="https://github.com/Moshakn111?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24243e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Moshakn111?tab=followers"><img src="https://img.shields.io/github/followers/Moshakn111?style=for-the-badge&color=302b63&labelColor=24243e&logo=github&label=Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Moshakn111&style=for-the-badge&color=302b63&label=Profile+Views"/>
 
 </div>
 
@@ -196,19 +28,283 @@ philosophy: "If it can't run in real-time, it's not ready for production."
 
 ---
 
+<br>
+
+## AI Focus
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1"/>
+| | | |
+|:---:|:---:|:---:|
+| **Machine Learning** | **Computer Vision** | **Deep Learning** |
+| Predictive models, classification, regression, clustering | Object detection, segmentation, tracking, real-time vision | CNNs, LSTMs, Transformers, transfer learning |
+| | | |
+| **Generative AI** | **Natural Language Processing** | **Data Science** |
+| LLMs, RAG pipelines, fine-tuning, prompt engineering | Text classification, speech processing, language models | EDA, statistical analysis, visualization, dashboards |
+
+</div>
 
 <br>
 
-```
- Open to collaborations on AI/ML projects.
- Let's build something intelligent together.
-```
+---
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=80&section=footer"/>
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+**Machine Learning & Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<br>
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+<br>
+
+**AI & Generative AI**
+
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+<br>
+
+**Data Science & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<br>
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Traffic Violation Detection
+
+Computer vision system that analyzes vehicle movement and identifies traffic violations using real-time detection and tracking.
+
+`YOLO` `DeepSort` `OpenCV` `PyTorch`
+
+<a href="https://github.com/Moshakn111/traffic_violation_ai"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Night-Time Vehicle Detection
+
+Deep learning based vehicle detection designed for challenging low-light and nighttime driving environments.
+
+`YOLO` `OpenCV` `PyTorch` `Deep Learning`
+
+<a href="https://github.com/Moshakn111"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sign Language to Text & Voice
+
+Real-time hand gesture recognition system that converts sign language into text and speech output.
+
+`MediaPipe` `CNN` `OpenCV` `TTS`
+
+<a href="https://github.com/Moshakn111"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Tamil Dialect Identification
+
+Speech classification system for identifying regional Tamil dialects using transformer-based audio models.
+
+`Wav2Vec2` `XLS-R` `PyTorch` `NLP`
+
+<a href="https://github.com/Moshakn111"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Nail Disease Analysis
+
+Deep learning system for nail image segmentation and classification with explainable AI techniques.
+
+`U-Net` `CNN` `Grad-CAM` `XAI`
+
+<a href="https://github.com/Moshakn111"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Welding Defect Classification
+
+Deep learning classification of welding defects from industrial imaging data using transfer learning.
+
+`ResNet` `VGG` `MobileNet` `Computer Vision`
+
+<a href="https://github.com/Moshakn111"><img src="https://img.shields.io/badge/View_Project-24243e?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Currently Exploring
+
+<div align="center">
+
+```
+                    ┌─────────────────────────────────┐
+                    │         AI RESEARCH LAB          │
+                    └─────────────────────────────────┘
+                                    │
+            ┌───────────────────────┼───────────────────────┐
+            │                       │                       │
+   ┌────────┴────────┐    ┌────────┴────────┐    ┌────────┴────────┐
+   │  Deep Learning  │    │  Generative AI  │    │   Vision AI     │
+   │                 │    │                 │    │                 │
+   │  Detection      │    │  LLM Apps       │    │  Segmentation   │
+   │  Segmentation   │    │  RAG Pipelines  │    │  Tracking       │
+   │  Transformers   │    │  Fine-Tuning    │    │  Real-Time      │
+   └─────────────────┘    └─────────────────┘    └─────────────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    │        Applied AI             │
+                    │   Intelligent Real-World      │
+                    │        Systems                │
+                    └──────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Moshakn111&show_icons=true&hide_border=true&bg_color=1a1b27&icon_color=7B68EE&title_color=A8B2D1&text_color=C9D1D9&ring_color=7B68EE&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moshakn111&layout=compact&hide_border=true&bg_color=1a1b27&title_color=A8B2D1&text_color=C9D1D9&langs_count=6" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moshakn111&hide_border=true&background=1a1b27&ring=7B68EE&fire=FF6E40&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=A8B2D1&sideLabels=A8B2D1&dates=8B949E" width="58%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moshakn111&hide_border=true&bg_color=1a1b27&color=A8B2D1&line=7B68EE&point=FFFFFF&area=true&area_color=302b63" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moshakn111&theme=2077" width="90%"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|:---|:---|
+| Oracle Cloud Infrastructure Data Science Professional | Oracle |
+| Python for Data Science | NPTEL |
+| Business Analytics and Data Mining using R | NPTEL |
+| Power BI | Microsoft |
+| Data Science Methodology | IBM |
+| MySQL Database Developer | Oracle |
+| Generative AI | Databricks |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Moshakn111-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moshakn111)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7B68EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+> *"Intelligence is not about replicating thought — it's about building systems that learn, adapt, and create impact where humans cannot scale."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:302b63,100:24243e&height=100&section=footer"/>
 
 </div>
