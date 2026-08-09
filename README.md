@@ -127,7 +127,7 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 > Real-time traffic monitoring using YOLOv8 detection, SORT tracking, and Flan-T5 NLP report generation
 
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![SORT](https://img.shields.io/badge/SORT_Tracker-8B949E?style=flat-square) ![Flan-T5](https://img.shields.io/badge/Flan--T5-FF6F00?style=flat-square) ![mAP](https://img.shields.io/badge/mAP@0.5-99.07%25-238636?style=flat-square) ![FPS](https://img.shields.io/badge/Speed-97_FPS-238636?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square) ![SORT](https://img.shields.io/badge/SORT_Tracker-8B949E?style=flat-square) ![Flan-T5](https://img.shields.io/badge/Flan--T5-FF6F00?style=flat-square) ![mAP](https://img.shields.io/badge/mAP@0.5-75.4%25-238636?style=flat-square) ![FPS](https://img.shields.io/badge/Speed-185_FPS-238636?style=flat-square)
 
 <br>
 
