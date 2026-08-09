@@ -33,7 +33,7 @@
 
 I'm passionate about making machines see, understand, and generate. From detecting objects in video streams to teaching language models new skills — I work at the intersection of vision, language, and intelligence.
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260"/>
+<img align="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260"/>
 
 - Building **computer vision** systems that work in real-time
 - Fine-tuning **LLMs** and designing **RAG pipelines**
