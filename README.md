@@ -53,15 +53,21 @@ I'm passionate about making machines see, understand, and generate. From detecti
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| ![ML](https://img.shields.io/badge/Machine_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![CV](https://img.shields.io/badge/Computer_Vision-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![DL](https://img.shields.io/badge/Deep_Learning-7B68EE?style=for-the-badge&labelColor=1a1b27) |
-| Predictive modeling that finds | Teaching machines to see, detect | Neural architectures that learn |
-| patterns humans can't see | and understand visual worlds | complex representations |
-| | | |
-| ![GenAI](https://img.shields.io/badge/Generative_AI-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![NLP](https://img.shields.io/badge/NLP-7B68EE?style=for-the-badge&labelColor=1a1b27) | ![DS](https://img.shields.io/badge/Data_Science-7B68EE?style=for-the-badge&labelColor=1a1b27) |
-| Building with LLMs, RAG | Making machines read, speak | Transforming raw data into |
-| and fine-tuning intelligence | and understand language | actionable intelligence |
+<br>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_Machine_Learning-Predictive_models_that_find_patterns_humans_can't_see-1a1b27?style=for-the-badge&labelColor=7B68EE"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_Computer_Vision-Teaching_machines_to_see,_detect_and_understand_visual_worlds-1a1b27?style=for-the-badge&labelColor=6C63FF"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_Deep_Learning-Neural_architectures_that_learn_complex_representations-1a1b27?style=for-the-badge&labelColor=5C58E0"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_Generative_AI-Building_with_LLMs,_RAG_and_fine--tuning_intelligence-1a1b27?style=for-the-badge&labelColor=4B44D4"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_NLP-Making_machines_read,_speak_and_understand_language-1a1b27?style=for-the-badge&labelColor=3D37C8"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_Data_Science-Transforming_raw_data_into_actionable_intelligence-1a1b27?style=for-the-badge&labelColor=302b63"/></a>
+
+<br>
 
 </div>
 
